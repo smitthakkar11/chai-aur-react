@@ -1,0 +1,22 @@
+REACT == REACT DOM (web version)
+         REACT NATIVE (mobile version)
+
+REDUX == REACT-REDUX
+
+//redux is an independent library in order tpo support it we use react-redux as a supporting bridge
+
+
+FLUX === designed by facebook
+wanted to solve state management issue
+-> data flow emphasis
+
+REDUX in 2015 (better version of flux)
+changes through funs
+maintain only one state
+redux toolkit has made work easier
+it gave more better setup facility and abstraction than REDUX
+
+store  --- single source of truth (like global variable)
+reducers --- functionality of managing stores
+useSelector --- select a value from store
+useDispatch --- when we want to send  
